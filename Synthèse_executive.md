@@ -1,6 +1,6 @@
 # Synthèse Exécutive — Agriculture & Microcrédit Sénégal
 
-Challenge DACOT 2026 | Power BI | 2019–2023
+| Power BI | 2019–2023
 
 ## KPIs Globaux
 
