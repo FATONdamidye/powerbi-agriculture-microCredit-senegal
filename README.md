@@ -1,5 +1,4 @@
-# -Analyse-de-la-performance-agricole-et-financi-re-des-planteurs-au-S-n-gal-
-# 🌾 Dashboard Agriculture & Microcrédit – Sénégal (2019–2023)
+# 🌾Analyse de la performance agricole et financière 50 planteurs – Sénégal (2019–2023)
 
 ## 📌 Contexte
 Analyse de la performance agricole et financière de 50 planteurs
